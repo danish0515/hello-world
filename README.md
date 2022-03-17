@@ -6,3 +6,4 @@ manipulations to the data using various tools and come out with exiciting result
 in data science we also make use of the various machine learning algorithms to 
 build different models that provide solutions to some complex problems and can do necessary 
 predictions..
+here i made my first commit and i hope i didn't commited any mistake
